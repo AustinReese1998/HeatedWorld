@@ -1,5 +1,7 @@
 # [HeatedWorld](https://www.heated.world) - [www.heated.world](https://www.heated.world)
 
+- Designed by Ahmad Osman and Austin Reese
+
 - Fetching news from Reddit; /r/worldnews
   - [Reddit API](https://www.reddit.com/dev/api/)
     - [PRAW](https://github.com/praw-dev/praw) - [Documentation](https://praw.readthedocs.io/en/latest/)
